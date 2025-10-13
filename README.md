@@ -92,11 +92,10 @@ The project is divided into Jupyter notebooks (`.ipynb`) for each module, runnin
 - **Jupyter Notebooks**: For development and documentation.
 - **Libraries**: PySpark SQL functions (e.g., `datediff`, `when`, `broadcast`).
 
-## Setup Instructions
 
 1. **Prerequisites**:
    - Apache Spark installed (or use a managed service like Dataproc).
    - Access to HDFS or cloud storage (e.g., GCS).
    - Python 3.x with PySpark.
 
-2. **Clone the Repository**:
+2.
