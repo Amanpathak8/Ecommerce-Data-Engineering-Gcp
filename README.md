@@ -2,9 +2,6 @@
 
 # Spark Project: Real-World E-Commerce Data Analysis
 
-![Project Banner](https://via.placeholder.com/800x200?text=Spark+E-Commerce+Project)  
-*(Replace with an actual banner image if available, e.g., the provided abstract map-like image or a relevant e-commerce visualization.)*
-
 ## Overview
 
 In this project, we embark on a detailed exploration of a real-world e-commerce dataset using Apache Spark. The dataset is from Olist, a Brazilian e-commerce platform, and covers various aspects of online sales, including orders, customers, products, sellers, payments, reviews, and geolocation data.
